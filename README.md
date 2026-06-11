@@ -74,7 +74,7 @@ You can sponsor me (the author) for any amount (no minimum limit)! Even **$1** w
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="40"/> | **Pull Shark**<br>*(合并鲨鱼)* | 🥉 2 PRs<br>🥈 16 PRs<br>🥇 1024 PRs | **Merged Pull Requests**.<br>Keep contributing code or docs fixes to any repository.<br>👉 [**Go to Pull Requests**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/pulls)<br>只要你的 PR 被合并就算。多去改改文档、修修错别字。 |
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="40"/> | **Galaxy Brain**<br>*(银河大脑)* | 🥉 2 Answers<br>🥈 8 Answers<br>🥇 16 Answers | **Accepted Answers in Discussions**.<br>Answer questions in repos with "Discussions".<br>👉 [**Go to Discussions**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/discussions)<br>在 [**讨论区**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet/discussions) 回答问题并被提问者采纳。 |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="40"/> | **Starstruck**<br>*(星光熠熠)* | 🥉 16 Stars<br>🥈 128 Stars<br>🥇 512 Stars | **Repo Stars**.<br>Create a popular repo. [**Please Star this repo!**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet)<br>你的某个仓库获得足够多的 Star。**求求给个星吧！** |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="40"/> | **Starstruck**<br>*(星光熠熠)* | 🥉 16 Stars<br>🥈 128 Stars<br>🥇 512 Stars | **Repo Stars**.<br>Create a popular repo. [**Please Star this repo!**](https://github.com/yuanweize/GitHub-Badges-Cheatsheet)<br>你的某个仓库获得了足够多的 Star。**求求给个星吧！** |
 
 ### 🔴 Rare / Legacy (稀有与绝版)
 
