@@ -108,7 +108,7 @@ These are badges that appear in the "Highlights" section of your profile.
 > *   📦 **JetBrains Pack & More** (Thousands of dollars in value)
 >
 > 👉 [**Apply Now / 立即申请**](https://education.github.com/pack)
-> *(Note: Benefits usually arrive within 72 hours after verification. / 注：权益通常在验证通过后 72 小时内到账。)*
+> *(Note: Benefits usually arrive within 72 hours after verification. / 注：权益通常在验证通过后的 72 小时内到账。)*
 
 ---
 
